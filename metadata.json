@@ -1,0 +1,6 @@
+{
+  "name": "Boggle SI",
+  "description": "Prvovrstna igra Boggle (5x5) za slovenski jezik s peščeno uro, realističnimi zvočnimi efekti in stabilnim, 100-odstotno točnim offline preveritvenim sistemom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
